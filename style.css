@@ -15,8 +15,8 @@ body {
 }
 
 .kartu-profil img {
-  width: 12px;
-  height: 12px;
+  width: 122px;
+  height: 122px;
   border-radius: 50%;
   object-fit: cover;
 }
