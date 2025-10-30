@@ -13,35 +13,3 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
 }
-
-.kartu-profil img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.kartu-profil a {
-  display: inline-block;
-  margin-top: 10px;
-  color: #191970;
-  text-decoration: none;
-}
-
-.kartu-profil a:hover {
-  text-decoration: underline;
-}
-
-button {
-  margin-top: 10px;
-  background-color: #68a39d;
-  color: white;
-  border: none;
-  padding: 10px 15px;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #578b86;
-}
